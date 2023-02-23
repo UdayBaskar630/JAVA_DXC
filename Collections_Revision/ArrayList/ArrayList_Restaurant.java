@@ -63,10 +63,7 @@ public class ArrayList_Restaurant
 
             for (String item : items)
             {
-                if (!allItems.contains(item)) 
-                {
-                    allItems.add(item);
-                }
+               System.out.println(Item);
             }
         }
 
